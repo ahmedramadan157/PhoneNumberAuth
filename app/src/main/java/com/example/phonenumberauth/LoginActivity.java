@@ -25,6 +25,11 @@ import java.util.concurrent.TimeUnit;
 
 public class LoginActivity extends AppCompatActivity {
 
+    /**
+     * Ahmed Ramadan
+     * 1 / 2020
+     * ahmedtramadan4@gmail.com
+     * */
 
     private FirebaseAuth mAuth;
     private FirebaseUser mCurrentUser;

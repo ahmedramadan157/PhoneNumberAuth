@@ -12,6 +12,11 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * Ahmed Ramadan
+     * 1 / 2020
+     * ahmedtramadan4@gmail.com
+    * */
 
     private FirebaseAuth mAuth;
     private FirebaseUser mCurrentUser;

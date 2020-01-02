@@ -21,6 +21,12 @@ import com.google.firebase.auth.PhoneAuthProvider;
 
 public class OTP_Activity extends AppCompatActivity {
 
+    /**
+     * Ahmed Ramadan
+     * 1 / 2020
+     * ahmedtramadan4@gmail.com
+     * */
+
     private FirebaseAuth mAuth;
     private FirebaseUser mCurrentUser;
     private String mAuthVerificationId;
