@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630320486004",
+    "firebase_url": "https://phonenumberauth-a500f.firebaseio.com",
+    "project_id": "phonenumberauth-a500f",
+    "storage_bucket": "phonenumberauth-a500f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630320486004:android:ada051eddecbe4287f2321",
+        "android_client_info": {
+          "package_name": "com.example.phonenumberauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630320486004-6qe7b07fn1rgtv61cmfgmt6fskrn5c0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phonenumberauth",
+            "certificate_hash": "9c68c7408d886106bb134360471de20821b449ab"
+          }
+        },
+        {
+          "client_id": "630320486004-5aaso5ntdq1ccj7aad1lvmu1g3ek5bgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPLTRYylejfM9Hp8DXx0HSzAMFCdrF3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630320486004-5aaso5ntdq1ccj7aad1lvmu1g3ek5bgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
